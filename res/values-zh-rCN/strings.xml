@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">距离感应器校准</string>
+    <string name="lt_value" translatable="false">0</string>
+    <string name="ht_value" translatable="false">255</string>
+    <string name="apply">开始</string>
+    <string name="prox_value">没有运行</string>
+    <string name="lt_label">低阈值</string>
+    <string name="ht_label">高阈值</string>
+    <string name="ork">距离感应器监测:</string>
+    <string name="title">Proximity Sensor Recalibrator by leppie\nUI modernization by Mustaavalkosta</string>
+</resources>
